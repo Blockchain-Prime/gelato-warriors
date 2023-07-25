@@ -10,7 +10,7 @@ Playing a game which utilizes blockchain technology is not much feasible at the 
 
 Gas fees are a necessary aspect of blockchain transactions, as they compensate miners for processing transactions on the network. However, they can be a significant source of confusion and frustration for users. Account abstraction allows smart contracts to interact with multiple accounts on behalf of a user, eliminating the need for users to have gas or an Externally-owned account (EOA). Gasless transactions take this concept further by allowing a third party to pay for gas on behalf of the user, removing the need for users to understand gas altogether.
 
-So now the users don't need to worry about their private keys and they can play the game directly on the chain. Without signing transactions every now and then . Also not paying much attention to login and account creation as everything is handled by Gelato Onboarding SDK .
+So now the users don't need to hesitate about their private keys and they can play the game directly on the chain. Without signing transactions every now and then . Also not paying much attention to login and account creation as everything is handled by Gelato Onboarding SDK .
 
 The main aim of account abstraction is to provide users an experience by which they won't even think what is the underlying technology behind the game and this POC achieves the same.
 
