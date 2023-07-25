@@ -1,8 +1,9 @@
 # Gelato Gasless Warriors [ Pixel Warriors - The NFT Showdown]
+Nehvij Technologies
 
 <img width="234" alt="Screenshot 2023-03-26 224358" src="https://user-images.githubusercontent.com/62092256/229061812-146c869a-bb2f-41c5-a30d-6242ab866610.png">
 
-## Introduction
+## Introduction 
 Blockchain technology has the potential to revolutionize the way we conduct financial transactions and exchange assets. However, the complexity of blockchain technology can be a barrier for non-tech users, particularly when it comes to understanding gas fees and storing private keys.
 
 Playing a game which utilizes blockchain technology is not much feasible at the moment I am writing this because user needs to sign the transaction manually after performing anything in the game.
@@ -54,7 +55,7 @@ The main aim of account abstraction is to provide users an experience by which t
 - Tailwind CSS
 
 ## Run it locally
-`git clone https://github.com/anukulpandey/gelato`
+`git clone https://github.com/Blockchain-Prime/gelato-warriors`
 `cd gelato`
 `yarn install`
 `yarn start`
